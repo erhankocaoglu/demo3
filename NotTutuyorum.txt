@@ -1,0 +1,2 @@
+http://localhost:8080/api/bildirim
+http://localhost:8080/bildirimler
